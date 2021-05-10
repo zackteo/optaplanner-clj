@@ -2,6 +2,8 @@
 
 [Optaplanner example](https://quarkus.io/version/1.7/guides/optaplanner#the-value-range-providers) in Clojure (+ Java). 
 
+Please view joinr's fork to see a complete Clojure version that we worked on https://github.com/joinr/optaplanner-clj.
+
 There were too many type annotations to use `deftype` in Clojure
 
 ## Usage
